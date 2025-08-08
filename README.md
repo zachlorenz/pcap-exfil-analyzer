@@ -1,7 +1,7 @@
 # PCAP Exfil Analyzer
 
 **Author:** Zach Lorenz  
-**Clearance:** TS/SCI (Eligible for Full Scope Polygraph)  
+**Clearance:** TS/SCI FSP 
 **Training:** Joint Cyber Analysis Course (JCAC) Graduate, 2025
 
 ---
@@ -19,6 +19,9 @@ The tool uses:
 This project is inspired by real-world **Digital Network Exploitation Analyst (DNEA)** workflows — mapping network traffic, spotting anomalies, and producing actionable intelligence.
 
 ---
+## 📊 Detection Workflow
+![DNS Detection Workflow](docs/detection_flow.png)
+
 
 ## ✨ Features
 
