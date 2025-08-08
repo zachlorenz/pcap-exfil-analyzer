@@ -1,0 +1,4 @@
+# PCAP Exfil Analyzer
+
+## 📊 Detection Workflow
+![DNS Detection Workflow](docs/detection_flow.png)
