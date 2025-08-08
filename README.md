@@ -20,7 +20,8 @@ This project is inspired by real-world **Digital Network Exploitation Analyst (D
 
 ---
 ## 📊 Detection Workflow
-![DNS Detection Workflow](docs/detection_flow.png)
+![DNS Detection Workflow](docs/detection_flow.png?raw=true)
+
 
 
 ## ✨ Features
