@@ -1,0 +1,40 @@
+{
+    "file_analyzed": "example/dns.cap",
+    "total_queries": 38,
+    "suspicious_count": 4,
+    "suspicious_queries": [
+        {
+            "query": "_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.utelsystems.local",
+            "length": 69,
+            "entropy_labels": [],
+            "reasons": [
+                "Length=69"
+            ]
+        },
+        {
+            "query": "_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.utelsystems.local",
+            "length": 69,
+            "entropy_labels": [],
+            "reasons": [
+                "Length=69"
+            ]
+        },
+        {
+            "query": "_ldap._tcp.05b5292b-34b8-4fb7-85a3-8beef5fd2069.domains._msdcs.utelsystems.local",
+            "length": 80,
+            "entropy_labels": [],
+            "reasons": [
+                "Length=80"
+            ]
+        },
+        {
+            "query": "_ldap._tcp.05b5292b-34b8-4fb7-85a3-8beef5fd2069.domains._msdcs.utelsystems.local",
+            "length": 80,
+            "entropy_labels": [],
+            "reasons": [
+                "Length=80"
+            ]
+        }
+    ],
+    "analysis_time": "2025-08-07T19:08:58.829565"
+}
